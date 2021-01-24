@@ -21,6 +21,11 @@ In order to meet the demand of the drivers in the Urban cities, would like to se
 Mulitple line charts using the pyber summary will helps in analyse the trends of the overall fares in different city types ( rural,suburban and urban) between Jan 2019 and Apr 2019. There are total 1625 riders in urban city with total fares of $2405,  whereas the total number of rides in suburban and rural are 625 and 125 respectively. 
 ![AverageFarePerRide](/analysis/PyBer_fare_summary.png) <br/>
 
-Average Fare per  Driver will gives us different perspective , in rural cities per ride drivers are making around $55, where as in Urban its only $16.
+Average Fare per  Driver will gives us different perspective , in rural cities per ride drivers are making around $55, where as in Urban its only $16. <br/>
 ![AverageFarePerDriver](/analysis/Fig7.png) <br/>
 
+### Observations
+1. Urban cities has more ride shares and also more drivers.
+1. Major revenue will be coming from Urban cities to PyBer which was around $39,854
+1. The average fare per ride and average fare per driver is much higher in rural than in Urban and Suburban cities.
+1. While observing the line charts, there's a peak increase of fares during Feb last week.
